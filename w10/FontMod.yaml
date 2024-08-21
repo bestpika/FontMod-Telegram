@@ -1,0 +1,15 @@
+# FontMod
+fonts:
+  Cascadia Mono:
+    replace: Fira Code Retina
+  Consolas:
+    replace: Fira Code Retina
+  Courier:
+    replace: Fira Code Retina
+  Liberation Mono:
+    replace: Fira Code Retina
+  Menlo:
+    replace: Fira Code Retina
+# fallback
+fixGSOFont: false
+debug: false
