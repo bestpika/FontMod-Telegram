@@ -13,7 +13,7 @@
 ----
 
 1. 系統使用的實際字型請用 debug 測試
-2. 官方應用程式字型寫在這兩個檔案裡
+1. 官方應用程式字型寫在這兩個檔案裡
    - <https://github.com/desktop-app/lib_ui/blob/master/fonts/fonts.qrc>
    - <https://github.com/desktop-app/lib_ui/blob/master/ui/style/style_core_font.cpp>
 
