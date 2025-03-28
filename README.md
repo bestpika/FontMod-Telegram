@@ -6,6 +6,7 @@
    - [芫荽](https://github.com/ButTaiwan/iansui/releases)
    - [open 粉圓](https://justfont.com/huninn/)
    - [源泉圓體](https://github.com/ButTaiwan/gensen-font/releases)
+   - [Maple Mono](https://github.com/subframe7536/maple-font/releases)
    - [Fira Code](https://github.com/tonsky/FiraCode/releases)（用於等寬字型）
    - [開源/免費字型收集](https://sites.google.com/view/getfonts/fonts)
 
